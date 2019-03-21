@@ -1,0 +1,28 @@
+body {
+    display: block;
+    margin: 0px;
+    background: whitesmoke
+}
+
+.top{
+
+}
+.botom{
+
+}
+#black{
+    background: gray;
+    height: 200px;
+}
+#center{
+    background:white;
+    height: 502px;
+    margin-left: 130px;
+    margin-right: 130px;
+}
+#botom{
+    background: black;
+    height: 100px;
+    margin-left: 130px;
+    margin-right: 130px;
+}
