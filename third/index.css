@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+}
+.top{
+
+}
+.row{
+    height: 100px;
+    length: 100%;
+}
+.text{
+    text-align: center;
+    font-size: 2em;
+    font-family: sans-serif;
+}
+.color{
+    height: 100px;
+    length: 100%;
+}
+#a{
+    background: aqua;
+}
+#b{
+    background: teal
+}
+#c{
+    background: lawngreen;
+}
+#d{
+    background: yellow
+}
+#g{
+    background: gray;
+    padding: 20px;
+    padding-top: 10px;
+}
+#block{
+    background: aqua;
+    height: 75px;
+    width: 75px;
+}
